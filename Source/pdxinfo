@@ -1,0 +1,6 @@
+name= imagetableplus
+author= Ministero dell'inferno AKA Dandelion
+description= An enhanced version of Panic Playdate imagetable implementation
+bundleID=com.Ministerodellinferno.imagetableplus
+version=0.0.1
+buildNumber=1

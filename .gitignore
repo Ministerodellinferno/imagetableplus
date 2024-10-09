@@ -39,3 +39,8 @@ luac.out
 *.x86_64
 *.hex
 
+#playdate
+*.pdx
+*.pdx/
+#MacOS
+.DS_Store
